@@ -1,0 +1,6 @@
+{
+  "name": "Cultura na Quebrada",
+  "description": "Plataforma mobile-first para conectar moradores e artistas das periferias de São Paulo a editais, oficinas culturais e eventos locais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
